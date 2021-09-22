@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+html{
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    margin-bottom: 20px;
+    background-color: cornflowerblue;
+}
+
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: darksalmon;
+}
+
+
+a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+img{
+
+    height: 200px;
+}
